@@ -158,6 +158,7 @@ public class MapsActivity extends FragmentActivity implements OnMapReadyCallback
 
 
             }
+            //Hello india;
 
             @Override
             public void onStatusChanged(String s, int i, Bundle bundle) {
