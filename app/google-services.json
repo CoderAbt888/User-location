@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "596168167227",
+    "firebase_url": "https://gangwar-bb61f.firebaseio.com",
+    "project_id": "gangwar-bb61f",
+    "storage_bucket": "gangwar-bb61f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:596168167227:android:be31cd076986a53f1b311e",
+        "android_client_info": {
+          "package_name": "com.example.mylocation"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "596168167227-ks6drbp029qf5bmvt5b1v9bin9udtmpp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDZXy7-3UzzVEfBz9QzdRt9BwHe2LTAiF8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "596168167227-ks6drbp029qf5bmvt5b1v9bin9udtmpp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
